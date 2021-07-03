@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # this script is only tested on ubuntu xenial
-
+#adding a line
 # install docker
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 sudo add-apt-repository \
